@@ -1,3 +1,5 @@
+# k3s StorageClass using Rancher local-path provisioner
+# Installation instructions available at: https://github.com/rancher/local-path-provisioner
 ---
 kind: StorageClass
 apiVersion: storage.k8s.io/v1
